@@ -35,8 +35,6 @@
 
 ********************************************************************************************************************
 
-<p align="left">Hello World!!</p>
-
 ###
 
 <div align="left">
@@ -93,11 +91,21 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/samirul/samirul/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
 
 <br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/samirul-haque-63696516a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="43" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samirul-haque-63696516a/" target="_blank">
