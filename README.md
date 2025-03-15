@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samirul&label=Profile%20views&color=0e75b6&style=flat" alt="samirul" /> </p>
 
 <h1 align="center">Hi 👋, I'm Samirul Haque</h1>
-<h3 align="center">A passionate Python and Django Developer, Want to Learn more and more.</h3>
+<h3 align="center">A passionate Python and Django developer, and want to learn more about technology.</h3>
 
 
 *****************************************************************************************************************************************************************************************************************************************************************************
