@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **samirulhaque08@gmail.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/f325ccf9/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/f325ccf9/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
-
 - ⚡ Fun fact **I love Learning**
 
 ###
